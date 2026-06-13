@@ -1,0 +1,31 @@
+Subject: AI/ML Internship Application | Python, ML & Real Projects | Vinayak Garg
+
+Hello {name},
+
+I hope you're doing well.
+
+I came across opportunities at {company} and wanted to reach out regarding AI/ML internship roles.
+
+I'm currently pursuing B.Tech and actively building projects in Machine Learning and AI beyond coursework. Recently, I worked on projects including:
+
+• Network Security Threat Detection System
+• Student Performance Predictor
+• Customer Churn Prediction
+• Movie Review Sentiment Analysis
+
+Along with Python and Machine Learning, I’ve also deployed projects using Streamlit and maintain my work on GitHub.
+
+I’m looking for an opportunity where I can contribute, learn from real-world projects, and grow as an AI/ML engineer. I’d be grateful if you could consider my profile for any current or upcoming internship openings.
+
+Resume attached.
+
+GitHub: https://github.com/vinugarg2005-cell
+LinkedIn: https://www.linkedin.com/in/vinayak-garg-901b28322/
+
+Thank you for your time. Looking forward to hearing from you.
+
+Best regards,
+Vinayak Garg
+Phone: 9958562475
+
+
